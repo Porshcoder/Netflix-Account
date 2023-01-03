@@ -184,3 +184,10 @@ input[type="radio"]{
 .faq small{
     font-size: 18px;
 }
+
+.footer{
+    padding: 50px 15% 10px;
+    border-top: 6px solid #333;
+    color: #777;
+    background: #000;
+}
