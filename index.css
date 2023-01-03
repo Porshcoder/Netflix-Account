@@ -108,4 +108,11 @@ nav button{
     margin-left: 5px;
 }
 
-
+.faq{
+    padding: 10px 12%;
+    font-size: 30px;
+    background: #000;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+}
