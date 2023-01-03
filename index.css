@@ -125,7 +125,7 @@ nav button{
 .accordion{
     margin: 60px auto;
     width: 100%;
-    min-width: 750px;
+    max-width: 750px;
 }
 
 .accordion li{
@@ -174,4 +174,13 @@ input[type="radio"]{
 
 .accordion input[type="radio"]:checked + label::after{
     transform: rotate(130deg);
+}
+
+.faq .email-Signup{
+    max-width: 600px;
+    margin: 20px auto 60px;
+}
+
+.faq small{
+    font-size: 18px;
 }
