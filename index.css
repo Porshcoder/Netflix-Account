@@ -100,7 +100,12 @@ nav button{
     margin-top: 40px;
 }
 
+.features h2{
+    font-size: 42px;
+    font-weight: 600;
+}
 .features p{
     margin-left: 5px;
 }
+
 
